@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EloDurga" parent="android:Theme.Material.Light.NoActionBar" >
+        <!-- Make the splash screen background transparent -->
+        <item name="android:windowSplashScreenBackground">@android:color/transparent</item>
+
+        <!-- Optionally set the splash screen icon to nothing or remove it -->
+        <item name="android:windowSplashScreenAnimatedIcon">@null</item>
+    </style>
+</resources>
